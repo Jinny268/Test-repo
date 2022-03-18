@@ -4,8 +4,8 @@
 이름: 황혜진
 '''
 
-h="hello "
-b="bye "
+h="Hello "
+b="good bye "
 a=input("h 혹은 b를 입력하세요: ")
 
 if a=='h':
