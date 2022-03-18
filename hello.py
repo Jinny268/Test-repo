@@ -5,7 +5,7 @@
 '''
 
 h="Hello "
-b="good bye "
+b="ood bye "
 a=input("h 혹은 b를 입력하세요: ")
 
 if a=='h':
