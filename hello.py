@@ -3,7 +3,7 @@
 학번: 202103811
 이름: 황혜진
 '''
-# Touch by minijinny
+# Touch by minijinny(2022.03.18)
 
 h="Hello "
 b="Good bye "
