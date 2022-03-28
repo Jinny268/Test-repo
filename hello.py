@@ -2,9 +2,10 @@ print('학과: 컴퓨터공학부')
 print('학번: 202103811')
 print('이름: 황혜진')
 print('취미: 음악듣기')
-print('HUFS')
+print('HUFS')# Touch by minijinny(2022-03-18)
+print('Computer Engineering')# Touch by HwangBBang(2022-03-28)
 
-# Touch by minijinny(2022-03-18)
+
 
 h="Hello "
 b="Good bye "
