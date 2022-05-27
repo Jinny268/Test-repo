@@ -3,6 +3,7 @@
 print('학교: 한국외국어대학교')
 print('학과: 컴퓨터공학부')
 print('학번: 202103811')
+print('학년: 2학년')
 print('이름: 황혜진')
 print('취미: 음악듣기, 산책하기, 영화보기')
 print('Computer Engineering') # Touch by HwangBBang (2022-03-28)
