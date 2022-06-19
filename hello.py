@@ -6,11 +6,11 @@ print('학번: 202103811')
 print('학년: 2학년(sophomore)')
 print('이름: 황혜진(Hwang Hyejin)')
 
-h="Hello "
-b="Good bye "
+H="Hello "
+B="Good bye "
 a=input("h 혹은 b를 입력하세요: ")
 
 if a=='h':
-    print(h*3)
+    print(H*3)
 elif a=='b':
-    print(b*3)
+    print(B*3)
