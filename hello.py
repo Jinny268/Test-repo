@@ -1,4 +1,4 @@
-#컴퓨터공학부 202103811 황혜진
+# 컴퓨터공학부 202103811 황혜진
 
 print('학교: 한국외국어대학교(Hankuk University of Foreign Studies)')
 print('학과: 컴퓨터공학부(Computer Engineering)')
