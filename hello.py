@@ -12,5 +12,5 @@ a=input("h 혹은 b를 입력하세요: ")
 
 if a=='h' or a=='H':
     print(H*3)
-elif a=='b':
+elif a=='b' or a=='B':
     print(B*3)
