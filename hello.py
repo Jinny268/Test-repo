@@ -8,7 +8,7 @@ print('이름: 황혜진(Hwang Hyejin)')
 
 H="Hello "
 B="Good bye "
-a=input("H(h) 혹은 B(b)를 입력하세요: ")
+a=input("H, h, B, b 중 하나를 입력하세요: ")
 
 if a=='h' or a=='H':
     print(H*3)
